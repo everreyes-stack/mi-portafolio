@@ -10,6 +10,8 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
   
 ### Trabajos del modulo 1 
 
+- [Guia del proyecto](docs/GUIA.md)
+
 ## Herramientas que uso 
   
 -	**Git** para el control de versiones 
